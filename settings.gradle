@@ -1,2 +1,6 @@
-rootProject.name = 'projeto-java-gradle'
-
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'carservice'

@@ -1,13 +1,13 @@
-package br.com.fiap.costumer;
+package br.com.fiap.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CostumerApplication {
+public class CustomerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CostumerApplication.class, args);
+		SpringApplication.run(CustomerApplication.class, args);
 	}
 
 }

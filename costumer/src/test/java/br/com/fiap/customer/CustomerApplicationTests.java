@@ -1,4 +1,4 @@
-package br.com.fiap.costumer;
+package br.com.fiap.customer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CostumerApplicationTests {
+public class CustomerApplicationTests {
 
 	@Test
 	public void contextLoads() {
